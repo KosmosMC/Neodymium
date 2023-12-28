@@ -1,8 +1,8 @@
-# Neodymium Bug Reports Repo
-For bug reports, maintained by: @CasuallyJack
+# Neodymium Repository
 
-Here you simply report bugs found in the minecraft 1.20.1+ Modpack named Neodymium. (Install it here: https://modrinth.com/modpack/neodymium)
+![Logo](https://cdn.modrinth.com/data/z3gfy2hJ/images/bce542a98f5b66960bb9578ad8005e3183fb456f.png)
 
-It can be anything from terrain generation and structure bugs, to gamebreaking glitches and all of the such, or important performance issues.
+This is the official repository for the modpack [Neodymium.](https://modrinth.com/modpack/neodymium)
+Here you can report something in the issues, or get more information on the modpack itself!
 
-
+You can make suggestions in the issues if you use the Suggestions Label. If not, it may be ignored.
