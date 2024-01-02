@@ -16,6 +16,8 @@ The issue tracker is open for the following things:
 -  Gamebreaking Glitches
 -  Performance Issues
 
+There will not be support for versions below 1.9.0/1.9.01. You could likely fix most issues by updating to a more modern version.
+
 # 🛠️ Mod Suggestions
 
 In order to suggest a mod to the modpack, you should open a pull request with the following information:
