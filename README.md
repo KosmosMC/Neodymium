@@ -20,7 +20,7 @@ There will not be support for versions below 1.9.0/1.9.01. You could likely fix 
 
 # 🛠️ Mod Suggestions
 
-In order to suggest a mod to the modpack, you should open a pull request with the following information:
+In order to suggest a mod to the modpack, you should open an issue with the following information:
 
 - Send the Mod Link (Preferably Modrinth, as Curseforge projects require manual approval or may not be able to be used at all.)
 - State what the mod does
