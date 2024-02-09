@@ -16,7 +16,7 @@ The issue tracker is open for the following things:
 -  Gamebreaking Glitches
 -  Performance Issues
 
-There will not be support for versions below 1.9.0/1.9.01. You could likely fix most issues by updating to a more modern version.
+There will not be support for versions below 2.1.2. You could likely fix most issues by updating to a more modern version.
 
 # 🛠️ Mod Suggestions
 
