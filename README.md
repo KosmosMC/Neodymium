@@ -1,33 +1,40 @@
-# Neodymium Repository
+![Header](https://www.bisecthosting.com/images/CF/Neodymium/BH_NDM_header.webp)
+##     A large Fantasy Adventure modpack with a focus on freedom.
 
-![Logo](https://cdn.modrinth.com/data/z3gfy2hJ/images/bce542a98f5b66960bb9578ad8005e3183fb456f.png)
+![Overview](https://www.bisecthosting.com/images/CF/Neodymium/BH_NDM_overview.webp)
+- Beautiful mountain ranges spanning thousands of blocks via Tectonic
+- Over 450 biomes and nearly 300 structures, featuring classics such as Biomes O' Plenty
+- Hundreds of Advancements to complete, mobs to slay and things to find
+- Over 600 features spread across the beautiful world
+- And more than 300 mods! Theres almost endless possiblities. Forge your own destiny unlimited by campaigns and quests!
 
-This is the official repository for the modpack [Neodymium.](https://modrinth.com/modpack/neodymium)
-Here you can report something in the issues, or get more information on the modpack itself!
+# Want a server?
 
-The official Download for Neodymium is available on Modrinth.
+![Bisect Hosting Partnership](https://www.bisecthosting.com/images/CF/Neodymium/BH_NDM_promo.webp)
 
-# 🐛 Issue Tracker
+![da frog :D](https://cdn.modrinth.com/data/z3gfy2hJ/images/7782629fafac674c2e8141be44be355ec51aad0f.png)
+<details>
+<summary>Credits & Attributions</summary>
 
-The issue tracker is open for the following things:
+- omoso, Lead Developer
+- serpo, Author
+- CasuallyJack, Playtester
 
--  Terrain Generation and Structure Bugs
--  Gameplay Bugs
--  Gamebreaking Glitches
--  Performance Issues
 
-There will not be support for versions below 3.0.0. You could likely fix most issues by updating to a more modern version.
+**Neodymium runs some of the [Simply Optimized](https://modrinth.com/modpack/sop) configuration files for 2.5.1+**
 
-# 🛠️ Mod Suggestions
+</details>
 
-In order to suggest a mod to the modpack, you should open an issue with the following information:
 
-- Send the Mod Link (Preferably Modrinth, as Curseforge projects require manual approval or may not be able to be used at all.)
-- State what the mod does
-- State how the mod would fit into the modpack
+<details>
+<summary>Things to note!</summary>
+This modpack ever so often usually undergoes some large breaking change. Which may break your world. Always backup your worlds before updating.
 
-# ❓ Hardware Compatibility
+- Any major "season" of Neodymium is not compatible with one another. 1.x.x worlds will not work on 2.x.x and 2.x.x wont work on 3.x.x versions.
 
-Neodymium may not be compatible with very old or not mid-range powered systems.
-If your Graphics Card was made within the last 10-11 years, it should hopefully be compatible. The modpack ___is___ very performance intensive, however.
-Please allocate at least 4-5GB of ram or more for better performance. You may not be able to run it on the default settings if your hardware isnt the greatest.
+- Please do not report issues that were made due to changes you made. Changes like these are not supported by Me (omoso), serpo or Theorem.
+
+
+</details>
+
+**Like this project? Check out my other projects [here!](https://modrinth.com/user/omoso)**
